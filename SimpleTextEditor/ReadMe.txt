@@ -14,3 +14,5 @@ Scrollable text area for comfortable viewing and editing of large text files.
 Requirements------------
 Java Development Kit (JDK) 8 or later
 Java Swing library
+
+Thank you for the Opportunity.
